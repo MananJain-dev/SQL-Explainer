@@ -1,4 +1,4 @@
-# SQL Mentor
+# SQL Explainer
 
 <p align="center">
 
@@ -132,8 +132,8 @@ frontend/src/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/MananJain-dev/sql-mentor.git
-cd sql-mentor
+git clone https://github.com/MananJain-dev/SQL-Explainer.git
+cd SQL-Explainer
 ```
 
 ---
@@ -199,7 +199,7 @@ LIMIT 5;
 
 ---
 
-# What SQL Mentor Shows
+# What SQL Explainer Shows
 
 ✔ Query Analysis
 
@@ -225,9 +225,9 @@ LIMIT 5;
 
 ---
 
-# Why SQL Mentor?
+# Why SQL Explainer?
 
-SQL Mentor focuses on **understanding SQL**, not just executing it.
+SQL Explainer focuses on **understanding SQL**, not just executing it.
 
 It visualizes the logical execution pipeline of SQL queries and explains how clauses interact, helping learners build an intuition for relational query processing.
 
