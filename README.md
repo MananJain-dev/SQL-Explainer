@@ -280,9 +280,6 @@ IIT Jammu
 GitHub:
 https://github.com/MananJain-dev
 
-LinkedIn:
-(Add your LinkedIn)
-
 ---
 
 If you found this project helpful, consider giving it a ⭐.
