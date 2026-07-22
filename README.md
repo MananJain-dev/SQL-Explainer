@@ -132,7 +132,7 @@ frontend/src/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/sql-mentor.git
+git clone https://github.com/MananJain-dev/sql-mentor.git
 cd sql-mentor
 ```
 
