@@ -37,25 +37,25 @@ Built for students, interview preparation, and database education.
 
 ### Home
 
-![Home](screenshots/home.png)
+![Home](screenshots/HomePage.png)
 
 ---
 
-### Execution Graph
+### SQL Query and its output
 
-![Execution Graph](screenshots/execution-graph.png)
+![SQL Query & its output](screenshots/query_result.png)
 
 ---
 
-### Query Analysis
+### Execution Graph + Query Analysis
 
-![Analysis](screenshots/analysis.png)
+![Execution Graph](screenshots/graph.png)
 
 ---
 
 ### Interview Questions
 
-![Interview](screenshots/interview.png)
+![Interview](screenshots/Interview_Questions.png)
 
 ---
 
