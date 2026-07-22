@@ -53,6 +53,12 @@ Built for students, interview preparation, and database education.
 
 ---
 
+### Explanation
+
+![Explanation](screenshots/Explanation.png)
+
+---
+
 ### Interview Questions
 
 ![Interview](screenshots/Interview_Questions.png)
